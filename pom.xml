@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://172.31.2.113:8081/repository/maven-releases/</url>
+            <url>https://github.com/somasekharkori/https-github.com-carreerit-mavenrepo.git</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://172.31.2.113:8081/repository/maven-snapshots/</url>
+            <url>http://34.69.149.54:8081/repository/snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
